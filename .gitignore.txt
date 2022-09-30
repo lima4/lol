@@ -1,0 +1,4 @@
+data
+airflow/data
+airflow/logs
+airflow/plugins
