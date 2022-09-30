@@ -1,4 +1,4 @@
 data
-airflow/data
-airflow/logs
-airflow/plugins
+airflow/data/
+airflow/logs/
+airflow/plugins/
