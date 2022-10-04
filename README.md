@@ -26,3 +26,6 @@
   * 지속적으로 데이터들이 추가되도록 작성하였습니다.  
 * Tableau
   * Bigqueyr와 Tableau를 연동하였습니다.
+
+* 최종
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/96859526/193867925-5572986b-3b4c-4b8d-9df9-b7742468ca96.png">
