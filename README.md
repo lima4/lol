@@ -7,8 +7,10 @@
   * 공식 홈페이지의 문서를 통해 진행하였습니다.
 * Airflow
   * [Airflow Postgres & GCP Connection](https://www.notion.so/Airflow-bcf170d788304524a0fe4ba9067355a2)
+  * [Airflow Document](https://airflow.apache.org/docs/)
   * Airflow Webserver의 Connection을 작성하여 Local의 Postgresql과 GCP를 Airflow와 연동하였습니다. 
   * 많은 정보가 없어 Stackoverflow를 참조하고 직접 질문을 하면서 작성하였습니다.
+  * 기본적으로 Airflow Document를 가장 많이 참조하였습니다.
 * Python
   * [LoL API](https://developer.riotgames.com/)
   * LoL Developer 홈페이지의 API Key를 사용하여 플레이한 게임 정보를 받아왔습니다.
